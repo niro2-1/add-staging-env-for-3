@@ -1,3 +1,3 @@
 # Staging Environment
 
-This file adds staging environment for preview branches in issue #3.
+This file establishes a staging environment for preview branches related to issue #3.
