@@ -8,7 +8,7 @@ This document outlines the setup for a staging environment for preview branches 
 3. Run the following command to set up the staging environment:
    
    ```bash
-   <setup-command>
+   npm install
    ```
 4. Access the staging environment at `http://staging.example.com`.
 
